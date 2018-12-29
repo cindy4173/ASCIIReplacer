@@ -1,0 +1,20 @@
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.deps.json
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.runtimeconfig.json
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.runtimeconfig.dev.json
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.csprojResolveAssemblyReference.cache
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.AssemblyInfo.cs
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.dll
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.pdb
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.dll
+D:\Profiles\sxc4803\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.pdb
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.deps.json
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.runtimeconfig.json
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.runtimeconfig.dev.json
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.dll
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\bin\Debug\netcoreapp1.1\Chen_P1.pdb
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.csprojResolveAssemblyReference.cache
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.csproj.CoreCompileInputs.cache
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.AssemblyInfoInputs.cache
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.AssemblyInfo.cs
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.dll
+C:\Users\Sitong Chen\Desktop\ChenP1\Chen_P1\obj\Debug\netcoreapp1.1\Chen_P1.pdb
