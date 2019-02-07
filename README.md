@@ -14,3 +14,8 @@ The user must choose which ASCII texts want to play and choose which character w
 
 * If user's choice of character is not match the other character in ASCII texts, the replace will not happen. 
   Replacing only happen when input is matched with the character in ASCII texts.
+
+**Running Sample**
+-------------
+
+![p1sample](https://user-images.githubusercontent.com/27960189/52426913-eed2d400-2acc-11e9-921d-876d6cf009c2.jpg)
